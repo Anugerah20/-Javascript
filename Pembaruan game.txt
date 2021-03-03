@@ -1,5 +1,5 @@
 Pembaruan Game Suit Jepang V.1.2 Yaitu: 
 
-- Menambahkan gambar
+- Menambahkan gambar Batu, Gunting, Kertas
 - Design game yang menarik
 - Pembaruan code JavaScript
